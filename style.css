@@ -56,3 +56,21 @@ footer {
   padding: 1em;
   background: #ddd;
 }
+
+.navbar {
+  background-color: #003366;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  display: block;
+}
+
+.navbar a:hover {
+  background-color: #0055aa;
+}
